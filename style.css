@@ -74,6 +74,22 @@ body {
     background-color: rgb(237, 169, 85);
 }
 
+.evan {
+    display: flex;
+    margin: 5px;
+}
+
+.half-width {
+    width: 50%;
+    background-size: 30%;
+}
+
+.half-width img {
+    width: 80%;
+    margin: 5px;
+}
+
+
 input {
     text-align: center;
 }
