@@ -46,6 +46,34 @@ body {
     outline: 0;
 }
 
+.plan {
+    text-align: center;
+}
+
+.flex {
+    display: flex;
+}
+
+.width {
+    width: 30%;
+    padding-right: 5%;
+    padding-left: 2%;
+    margin: 5px;
+    padding-top: 5px;
+}
+
+.food {
+    background-color: rgb(251, 227, 190);
+}
+
+.shelter {
+    background-color: rgb(142, 246, 211);
+}
+
+.education {
+    background-color: rgb(237, 169, 85);
+}
+
 input {
     text-align: center;
 }
@@ -61,4 +89,8 @@ li {
 ul {
     text-align: center;
 
+}
+
+h1 {
+    font-size: 30px;
 }
