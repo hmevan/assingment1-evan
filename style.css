@@ -95,7 +95,13 @@ body {
 }
 
 .input {
-    background-color: orangered;
+    background-color: tomato;
+    padding: 4px 10px;
+    border-radius: 7px;
+    border: 0;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
 }
 
 .email {
