@@ -1,6 +1,7 @@
 body {
     font-family: 'Poppins', sans-serif;
-    margin: 0git;
+    margin: 0;
+    padding: 0;
 }
 
 .help {
@@ -87,6 +88,14 @@ body {
 .half-width img {
     width: 80%;
     margin: 5px;
+}
+
+.center {
+    text-align: center;
+}
+
+.input {
+    background-color: orangered;
 }
 
 
